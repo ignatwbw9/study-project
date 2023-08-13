@@ -1,5 +1,5 @@
 header {
-    background-image: url(mountains.jpeg);
+    background-image: url(img/mountains.jpeg);
     background-attachment: fixed;
     background-size: cover;
 }
@@ -46,7 +46,7 @@ header {
 
 .services h2 {
     font-size: 25px;
-    color: rgb(129, 27, 27);
+    color: rgb(142, 40, 40);
     margin-top: 20px;
 }
 
@@ -67,7 +67,7 @@ header {
 }
 
 .your-site {
-    background-image: url(python.webp);
+    background-image: url(img/python.webp);
     background-attachment: fixed;
     background-size: 100% auto;
 }
